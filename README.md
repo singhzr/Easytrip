@@ -19,5 +19,4 @@ This is a Spring Boot application for managing flights, passengers, and bookings
 - Spring MVC
 - Spring Data JPA
 - Hibernate
-- MySQL
 - RESTful APIs for communication between frontend and backend
