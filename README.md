@@ -1,4 +1,4 @@
-# Flight Management System
+# Easytrip Application
 
 This is a Spring Boot application for managing flights, passengers, and bookings.
  
